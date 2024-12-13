@@ -1,8 +1,8 @@
-#Sentiment Analysis with BERT Neural Network and Python
+# Sentiment Analysis with BERT Neural Network and Python
 
 This project implements a sentiment analysis model using the BERT (Bidirectional Encoder Representations from Transformers) neural network architecture. The model is built and fine-tuned in Python to classify text data based on sentiment polarity.
 
-##Table of Contents
+## Table of Contents
 
 Project Description
 
@@ -17,7 +17,7 @@ Dataset
 Results
 
 
-##Project Description
+## Project Description
 
 Sentiment analysis is a key natural language processing (NLP) task that involves classifying text into categories such as positive, negative, or neutral. This project leverages BERT, a state-of-the-art NLP model, to improve sentiment classification accuracy. The implementation includes preprocessing text data, tokenization using BERT's tokenizer, fine-tuning the BERT model, and evaluating its performance.
 
