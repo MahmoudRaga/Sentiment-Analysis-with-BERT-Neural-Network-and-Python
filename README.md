@@ -2,7 +2,7 @@
 
 This project implements a sentiment analysis model using the BERT (Bidirectional Encoder Representations from Transformers) neural network architecture. The model is built and fine-tuned in Python to classify text data based on sentiment polarity.
 
-## Table of Contents
+## Table of Contents 
 
 Project Description
 
