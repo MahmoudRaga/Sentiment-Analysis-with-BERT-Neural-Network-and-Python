@@ -23,7 +23,7 @@ Sentiment analysis is a key natural language processing (NLP) task that involves
 
 
 
-##Technologies Used
+## Technologies Used
 
 The project utilizes the following technologies and libraries:
 
@@ -39,7 +39,7 @@ Matplotlib for visualization
 
 Scikit-learn for evaluation metrics
 
-##Installation
+## Installation
 
 To set up the project, follow these steps:
 
@@ -57,7 +57,7 @@ Ensure that PyTorch and the Transformers library are properly installed:
 pip install torch torchvision torchaudio
 pip install transformers
 
-##How to Run the Project
+## How to Run the Project
 
 Follow these steps to run the project:
 
@@ -84,7 +84,7 @@ The final outputs include accuracy, loss plots, and confusion matrices.
 
 
 
-##Dataset
+## Dataset
 
 The project assumes a text-based dataset with sentiment labels. If you don't have a dataset, you can use publicly available datasets like:
 
@@ -92,7 +92,7 @@ IMDb Reviews Dataset
 
 SST (Stanford Sentiment Treebank)
 
-##Results
+## Results
 
 The model outputs:
 
