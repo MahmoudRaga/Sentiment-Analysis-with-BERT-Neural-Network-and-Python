@@ -1,4 +1,5 @@
 # Sentiment Analysis with BERT Neural Network and Python
+![](https://github.com/MahmoudRaga/Sentiment-Analysis-with-BERT-Neural-Network-and-Python/blob/main/SA.jpg)
 
 This project implements a sentiment analysis model using the BERT (Bidirectional Encoder Representations from Transformers) neural network architecture. The model is built and fine-tuned in Python to classify text data based on sentiment polarity.
 
@@ -93,20 +94,5 @@ SST (Stanford Sentiment Treebank)
 
 Or you can scrape data through reviews of any website and work on that data.
 
-## Results
-
-The model outputs:
-
-Accuracy and loss during training and validation phases
-
-Confusion matrix for model evaluation
-
-Text classification predictions
-
-Sample Results:
-
-Model Accuracy: 92%
-
-Loss Curve: Visualized in the notebook.
 
 
