@@ -89,8 +89,9 @@ The final outputs include accuracy, loss plots, and confusion matrices.
 The project assumes a text-based dataset with sentiment labels. If you don't have a dataset, you can use publicly available datasets like:
 
 IMDb Reviews Dataset
-
 SST (Stanford Sentiment Treebank)
+
+Or you can scrape data through reviews of any website and work on that data.
 
 ## Results
 
